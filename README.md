@@ -19,6 +19,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=nhattan040102.nhattan040102)
 
 ### ⚡ Github stat
-![Nhat Tan stats](https://github-readme-stats.vercel.app/api?username=nhattan040102&show_icons=true&theme=radical)
+![Nhat Tan stats](https://github-readme-stats.vercel.app/api?username=nhattan040102&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhattan040102)](https://github.com/nhattan040102/github-readme-stats)
 
 
