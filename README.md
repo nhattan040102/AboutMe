@@ -15,7 +15,10 @@
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-### Visitor count 
+### ⚡ Visitor count 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nhattan040102.nhattan040102)
+
+### ⚡ Github stat
+![Nhat Tan stats](https://github-readme-stats.vercel.app/api?username=nhattan040102&show_icons=true&theme=radical)
 
 
