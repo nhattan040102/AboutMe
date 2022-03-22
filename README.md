@@ -6,9 +6,11 @@
 <br />
 
 - 👨‍🎓 Student at [VNU HCMC University of Information Technology](https://www.uit.edu.vn/)
-- My major is computer science
+- 🔭 My major is computer science
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about anything
 
-### ⚡ Technologies and Skills:  
+### 🧰  Technologies and Skills:  
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -18,7 +20,7 @@
 ### ⚡ Visitor count 
 ![](https://visitor-badge.laobi.icu/badge?page_id=nhattan040102.nhattan040102)
 
-### ⚡ Github stat
+### 🏆 Github stat
 ![Nhat Tan stats](https://github-readme-stats.vercel.app/api?username=nhattan040102&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhattan040102)](https://github.com/nhattan040102/github-readme-stats)
 
